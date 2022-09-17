@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Discord-clone/static/css/main.a58c7c7f.css",
+    "main.js": "/Discord-clone/static/js/main.7a95c26d.js",
+    "static/media/img2.svg": "/Discord-clone/static/media/img2.e2236b93f8ca27e6307bfbcf11b4e749.svg",
+    "static/media/img1.svg": "/Discord-clone/static/media/img1.2b633b79ba966ad23a683742dfa60cf7.svg",
+    "static/media/img3.svg": "/Discord-clone/static/media/img3.58ff7a2be4dde6382f19cf3279d2faef.svg",
+    "static/media/img4.svg": "/Discord-clone/static/media/img4.b8b2baa7deaa4d684823cc70302f9f85.svg",
+    "static/media/img.svg": "/Discord-clone/static/media/img.ad0e2a5128d80e5d89e7db2ff89ba852.svg",
+    "static/media/cartoon.svg": "/Discord-clone/static/media/cartoon.4412ed0aecaa5e680e2825260ad02488.svg",
+    "static/media/background.png": "/Discord-clone/static/media/background.a006a9e2f908de0a3c85.png",
+    "static/media/clouds.svg": "/Discord-clone/static/media/clouds.cee8c404dad14e615fd4d252741afd11.svg",
+    "static/media/logo.svg": "/Discord-clone/static/media/logo.e1f7d11285641564a2badd806d3f68ba.svg",
+    "static/media/xbox.svg": "/Discord-clone/static/media/xbox.05b03c243e2413f195d265eab9d66469.svg",
+    "static/media/stars.svg": "/Discord-clone/static/media/stars.a3f3696d42e79a64b2fc679b6fef9bc4.svg",
+    "index.html": "/Discord-clone/index.html",
+    "main.a58c7c7f.css.map": "/Discord-clone/static/css/main.a58c7c7f.css.map",
+    "main.7a95c26d.js.map": "/Discord-clone/static/js/main.7a95c26d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58c7c7f.css",
+    "static/js/main.7a95c26d.js"
+  ]
+}
